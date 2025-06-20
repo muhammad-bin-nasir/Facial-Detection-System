@@ -1,0 +1,1 @@
+Open The folder,and double click the Main.bat file. It requires some libraries, like PyQt, which you will need to install.
